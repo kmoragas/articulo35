@@ -48,12 +48,27 @@ body {
     margin-bottom: 0px;
 }
 
+.footer-banner {
+    background-color: #44AEEB;
+    border-color: #44AEEB;
+    background-image: none;
+    margin-top: 0px;
+    margin-bottom: -50px;
+}
+
+
 .navbar-inverse .navbar-nav > li > a {
     color: #FFF;
     background-color: transparent;
 }
 
 .menu-secundario {
+	color: #000;
+	background-color: #CCC9D1;
+	
+}
+
+.menu-secundario > li > a {
 	color: #000;
 	background-color: #CCC9D1;
 	

@@ -1,0 +1,29 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.navbar-inverse {
+    background-color: #44AEEB;
+    border-color: #44AEEB;
+    background-image: none;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #FFF;
+    background-color: transparent;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}

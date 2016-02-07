@@ -46,6 +46,10 @@ body {
 	color: #FFF;
 }
 
+#mainsearch {
+	margin-top: 10px;
+}
+
 .logo-banner {
     background-color: #44AEEB;
     border-color: #44AEEB;

@@ -40,6 +40,12 @@ body {
 	
 }
 
+.navbar-slogan {
+	padding-top: 90px;
+	padding-left: 25px;
+	color: #FFF;
+}
+
 .logo-banner {
     background-color: #44AEEB;
     border-color: #44AEEB;

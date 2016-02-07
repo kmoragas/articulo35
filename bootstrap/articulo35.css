@@ -72,6 +72,10 @@ body {
     background-color: transparent;
 }
 
+.nav-stacked > li > a {
+	color: #000;
+}
+
 .menu-secundario {
 	color: #000;
 	background-color: #CCC9D1;

@@ -101,3 +101,13 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+.center-image {
+	text-align: center;
+}
+
+.footer-text {
+	margin-top: 10px;
+	font-size: 8pt;
+	text-align: center;
+}
